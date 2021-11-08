@@ -1,5 +1,0 @@
----
-deployment:
-  tasks:
-    - export DEPLOYPATH=/home/salaappc/public_html/project
-    - /bin/cp * $DEPLOYPATH
